@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+io
+os
+openai
+dotenv
